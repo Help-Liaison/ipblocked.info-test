@@ -9,7 +9,7 @@
     );
 
     $paths = array(
-        'root'      =>  '/opt/web'.'/',
+        'root'      =>  __DIR__ .'/',
         'includes'  =>  'includes'.'/',
         'modules'   =>  'modules'.'/',
     );
